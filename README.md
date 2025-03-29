@@ -34,8 +34,8 @@ Response:
 
 
 ### Integrating with Sheets
-host flask app
-create an AppsScript to fetch details from the same (code.gs) 
+host flask app &
+create an AppsScript file to fetch details from the same (code.gs) 
 
 ### Depends on
 - Selenium
